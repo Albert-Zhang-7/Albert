@@ -1,0 +1,10 @@
+my_list = ["你好", 2018, 2018, 2018, "English", "你好", 2000]
+# print(len(my_list))
+# help(my_list)
+# print(my_list[0])
+# my_list.append("5000")
+# print(my_list)
+# my_list.remove("English")
+# print(my_list)
+print(my_list.count(2018))
+print(my_list.count("你好"))
